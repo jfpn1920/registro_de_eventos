@@ -7,6 +7,8 @@ Este proyecto consiste en desarrollar un sistema en Python que permite registrar
 
 El sistema permite al usuario agregar nuevos eventos y consultar todos los eventos registrados mediante un menú interactivo en consola. Además, incluye validaciones para evitar la duplicación de fechas, asegurando que cada evento tenga una fecha única. Esta estructura proporciona un control organizado de los eventos y mejora la experiencia del usuario al interactuar con la información de manera intuitiva y confiable.
 
+Adicionalmente, el programa permite mantener un historial de eventos que puede ser consultado en cualquier momento, lo que facilita la planificación y seguimiento de actividades. Esta característica lo convierte en una herramienta útil tanto para la organización personal como para entornos educativos o profesionales.
+
 #
 ### 🧑‍💻 Lenguaje de programacion
 - Python
